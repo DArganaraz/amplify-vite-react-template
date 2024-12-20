@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.close-icon {
+  width: 16px; /* Adjust size as needed */
+  height: 16px;
+  margin-left: 30px; /* Add some spacing to the left of the icon */
+  stroke: white; /* Adjust color as needed */
+  transition: transform 0.2s ease-in-out;
+}
